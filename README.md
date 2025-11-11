@@ -1,7 +1,6 @@
 
   # Luxury Furniture Website Design
 
-  This is a code bundle for Luxury Furniture Website Design. The original project is available at https://www.figma.com/design/9i1EupRp9AundkXrxncBQj/Luxury-Furniture-Website-Design.
 
   ## Running the code
 
